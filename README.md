@@ -4,7 +4,7 @@ end of sequence pour la taille des mot de passe : voir code du prof
 \->
 
 
-abc
+abc \n
 ae7f
 
 abc@ae7f
