@@ -1,16 +1,1 @@
-
-end of sequence pour la taille des mot de passe : voir code du prof
-
-\->
-
-
-abc
-
-ae7f
-
-abc@ae7f
-
-**@** marche comme un fin de séquence et de ce fait c'est le modèle en générant le **@** qui défini la taille du modèle.
-
-
-et analyse analogique(mathematique) pour nos analyse
+Excepté les differentes versions progressives du code presente sur le dépôt, les code finazux se trouve dans les fichiers FINAL_model_GRU.py et FINAL_model_Transformers.py.
